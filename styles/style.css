@@ -7,7 +7,7 @@ html {
 
 body {
   
-  background: linear-gradient(335deg, rgba(165, 233, 173, 0.8) 0%, rgba(90, 34, 139, 1) 100%);
+  background: linear-gradient(335deg, rgba(165, 233, 173, 0.8) 0%, (37, 41, 88, 1) 100%);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
